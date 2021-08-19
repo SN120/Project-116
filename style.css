@@ -1,0 +1,12 @@
+body{
+    background-image: url('background.jpg');
+}
+
+canvas{
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+.btn-primary{
+    font-size: 25px !important;
+}
